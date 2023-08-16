@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+  }
+
+  .div-Timer {
+    padding: 1rem;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+  }
+
+  .fa-clock {
+    font-size: 2rem;
+  }
+  
+  .btn {
+    margin: 0;
+  }

@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(229, 227, 227);
+}
+
+.nav-tabs {
+  background-color: rgb(48, 48, 48);
+}
+
+.nav-tabs .nav-link.active {
+  background-color: rgba(245, 245, 245);
+  border-bottom-color: transparent;
+}
+
+.nav-link {
+  color:rgb(203, 203, 203)
+}
+
+.nav-tabs .nav-link.active:hover {
+  color: black;
+}
+
+.button.nav-link:hover {
+  color:rgb(231, 231, 231);
+  border-bottom-color: transparent;
+}
